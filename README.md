@@ -77,5 +77,8 @@
 - 估計天數：7天（規劃2天，編碼2天，除錯測試3天）<br>
 - 優先性：10<br>
 
-![default](https://cloud.githubusercontent.com/assets/11312915/7487225/0bb49512-f3e6-11e4-91e4-a5197bbbfaf1.png)
+![11287738_877800968948684_1935606805_o](https://cloud.githubusercontent.com/assets/11312915/7707235/71f00f8c-fe81-11e4-8eb0-f496d0d211cd.jpg)
 ![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
+![10980730_611235405679845_2106807783697011637_n](https://cloud.githubusercontent.com/assets/11312915/7707232/6fa9fdc8-fe81-11e4-813a-d8dc25c6515a.jpg)
+![10857740_611235402346512_5312639374775275688_n](https://cloud.githubusercontent.com/assets/11312915/7707228/6c763928-fe81-11e4-82a9-b0bc81f9eb4f.jpg)
+![10502013_611235399013179_8278290140298195121_n](https://cloud.githubusercontent.com/assets/11312915/7707206/56b245dc-fe81-11e4-9b0b-6efcb716a9f3.jpg)
