@@ -70,7 +70,9 @@
 3.鬧鐘介面。。<br>
 - 估計天數：7天（規劃2天，編碼2天，除錯測試3天）<br>
 - 優先性：10<br>
+
 ----------
+
 ![11287738_877800968948684_1935606805_o](https://cloud.githubusercontent.com/assets/11312915/7707612/348a8d64-fe83-11e4-9a1c-6dc8ce3d896b.jpg)
 ![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
 <hr>
