@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-bc6ce19c793bf3a4c7e0e44eecfa0c175bd9e26d.jar" />
+    </item>
+    <item
+        jar="/Users/song/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/hirondelle-date4j-1.5.1-e8405c7e88bcd3d16d16c79551cbb48f295e4b74.jar" />
+    </item>
+    <item
+        jar="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/classes-8f414cdef5dd0bb24fdfd35ba49b977af4e486ea.jar" />
+    </item>
+    <item
+        jar="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/exploded-aar/com.roomorama/caldroid/2.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3e51d1ca9153cbcec83221e355d070233572df85">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/classes-8738569937052b2da59f0f455314592592901a9a.jar" />
+    </item>
+    <item
+        jar="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/classes-6efdbb2144b66d6af04d29290d7e6c0d773c051d.jar" />
+    </item>
+    <item
+        jar="/Users/song/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-8e6a99ad1c219824213ddd87c2bfc2c23230e8ca.jar" />
+    </item>
+    <item
+        jar="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/song/Documents/AndroidProjects/SuperHepler/app/build/intermediates/pre-dexed/debug/classes-f6a1ab196cf3cec573682a198446143f4068798e.jar" />
+    </item>
+
+</items>
