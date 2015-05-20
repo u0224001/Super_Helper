@@ -16,7 +16,7 @@
 是個多功能型的日常小幫手。
 
 ----------
-###User Story ###
+###《User Story》###
 
 - 標題：月曆<br>
 - 敘述：以月為週期。<br>
@@ -71,10 +71,9 @@
 - 估計天數：7天（規劃2天，編碼2天，除錯測試3天）<br>
 - 優先性：10<br>
 
-----------
-###《User Story》###
 ![default](https://cloud.githubusercontent.com/assets/11312915/7717635/2c91f620-fed7-11e4-83b8-a079b581f4ce.png)
 ###《BurnDown Chart》###
+----------
 ![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
 <hr>
 ###《User Interface》###
