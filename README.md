@@ -72,7 +72,7 @@
 - 優先性：10<br>
 
 ![default](https://cloud.githubusercontent.com/assets/11312915/7717635/2c91f620-fed7-11e4-83b8-a079b581f4ce.png)
-----------
+<hr>
 ###《BurnDown Chart》###
 ![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
 <hr>
