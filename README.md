@@ -72,10 +72,12 @@
 - 優先性：10<br>
 
 ----------
-
-![11287738_877800968948684_1935606805_o](https://cloud.githubusercontent.com/assets/11312915/7707612/348a8d64-fe83-11e4-9a1c-6dc8ce3d896b.jpg)
+###《User Story》###
+![default](https://cloud.githubusercontent.com/assets/11312915/7717635/2c91f620-fed7-11e4-83b8-a079b581f4ce.png)
+###《BurnDown Chart》###
 ![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
 <hr>
+###《UI》###
 ![10980730_611235405679845_2106807783697011637_n](https://cloud.githubusercontent.com/assets/11312915/7707616/3a202b58-fe83-11e4-9885-898df7a9b59b.jpg)
 
 ![10857740_611235402346512_5312639374775275688_n](https://cloud.githubusercontent.com/assets/11312915/7707623/3e518370-fe83-11e4-8e85-f37f4e0703da.jpg)
