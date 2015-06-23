@@ -62,7 +62,7 @@
 3.成就(拼圖)介面。<br>
 - 估計天數：7天（規劃2天，編碼2天，除錯測試3天）<br>
 - 優先性：10<br>
-
+<br>
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309252/0d797c0a-19fc-11e5-8ad1-c1cb8612f809.png)
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309265/27ed3e5a-19fc-11e5-9ecf-aa5dc0aa4dfc.png)
 
