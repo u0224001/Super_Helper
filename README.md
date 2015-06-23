@@ -12,8 +12,9 @@
 ----------
 ###專題內容描述###
 
-結合月曆及代辦事項的小幫手，內含記帳功能，能夠簡單統計收支。<br>
-是個多功能型的日常小幫手。
+- 目標：為了協助使用者養成做家事的好習慣而製作的一款小幫手的遊戲。
+
+- 玩法：每日會有固定的任務接取任務並完成即可獲得獎勵。
 
 ----------
 ###《User Story》###
@@ -62,14 +63,21 @@
 - 估計天數：7天（規劃2天，編碼2天，除錯測試3天）<br>
 - 優先性：10<br>
 
-![default](https://cloud.githubusercontent.com/assets/11312915/7717798/e71cbcd0-fed9-11e4-9936-aad69fba3a5f.png)
+![default](https://cloud.githubusercontent.com/assets/11312915/8309252/0d797c0a-19fc-11e5-8ad1-c1cb8612f809.png)
+![default](https://cloud.githubusercontent.com/assets/11312915/8309265/27ed3e5a-19fc-11e5-9ecf-aa5dc0aa4dfc.png)
 
 ###《BurnDown Chart》###
-![2](https://cloud.githubusercontent.com/assets/11312915/7487274/0073ea94-f3e7-11e4-837e-7cde2e8c5fe3.png)
+![default](https://cloud.githubusercontent.com/assets/11312915/8309212/c94cb470-19fb-11e5-90d6-0e0f07723fa7.png)
+![default](https://cloud.githubusercontent.com/assets/11312915/8309276/3c285e7c-19fc-11e5-89d3-67cfe3720898.png)
 <hr>
 ###《User Interface》###
-![10980730_611235405679845_2106807783697011637_n](https://cloud.githubusercontent.com/assets/11312915/7707616/3a202b58-fe83-11e4-9885-898df7a9b59b.jpg)
+![screenshot_2015-06-23-18-21-07](https://cloud.githubusercontent.com/assets/11312915/8309303/6201154e-19fc-11e5-9918-689b7abc042c.png)
+![screenshot_2015-06-23-18-21-13](https://cloud.githubusercontent.com/assets/11312915/8309305/62022dee-19fc-11e5-950c-433c6dbca4b5.png)
+![screenshot_2015-06-23-18-21-18](https://cloud.githubusercontent.com/assets/11312915/8309304/620187c2-19fc-11e5-8e25-05adb304bdaa.png)
+![screenshot_2015-06-23-18-21-24](https://cloud.githubusercontent.com/assets/11312915/8309307/6203e49a-19fc-11e5-8242-c159822cd4d2.png)
+![screenshot_2015-06-23-18-21-34](https://cloud.githubusercontent.com/assets/11312915/8309306/6202a12a-19fc-11e5-8f87-e49f06928d10.png)
+![screenshot_2015-06-23-18-21-43](https://cloud.githubusercontent.com/assets/11312915/8309308/620838d8-19fc-11e5-9947-cfbb61e7eee0.png)
+![screenshot_2015-06-23-18-21-48](https://cloud.githubusercontent.com/assets/11312915/8309310/622d84da-19fc-11e5-820e-a8fe85e56868.png)
+![screenshot_2015-06-23-18-22-08](https://cloud.githubusercontent.com/assets/11312915/8309309/62294ac8-19fc-11e5-92f7-b4ac9e2d1d45.png)
 
-![10857740_611235402346512_5312639374775275688_n](https://cloud.githubusercontent.com/assets/11312915/7707623/3e518370-fe83-11e4-8e85-f37f4e0703da.jpg)
-![10502013_611235399013179_8278290140298195121_n](https://cloud.githubusercontent.com/assets/11312915/7707649/5bdce75e-fe83-11e4-9407-c93217d8ded9.jpg)
 
