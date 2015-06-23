@@ -66,10 +66,12 @@
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309252/0d797c0a-19fc-11e5-8ad1-c1cb8612f809.png)
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309265/27ed3e5a-19fc-11e5-9ecf-aa5dc0aa4dfc.png)
 <br>
+
 ###《BurnDown Chart》###
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309212/c94cb470-19fb-11e5-90d6-0e0f07723fa7.png)
 ![default](https://cloud.githubusercontent.com/assets/11312915/8309276/3c285e7c-19fc-11e5-89d3-67cfe3720898.png)
 <hr>
+
 ###《User Interface》###
 ![screenshot_2015-06-23-18-21-07](https://cloud.githubusercontent.com/assets/11312915/8309537/9f113c60-19fd-11e5-89cf-fb487ef450b2.png)
 ![screenshot_2015-06-23-18-21-13](https://cloud.githubusercontent.com/assets/11312915/8309533/9f079f5c-19fd-11e5-9ef9-3477f9ca1979.png)
