@@ -1,0 +1,142 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"   
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_gravity="fill"
+    android:gravity="fill_vertical" >
+
+    <RelativeLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/living_room"
+        android:gravity="bottom" >
+
+        <com.ant.liao.GifView
+            android:id="@+id/gif1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:enabled="false"
+            android:paddingBottom="0sp" />
+
+    </RelativeLayout>
+    
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="50"
+        android:background="@drawable/event_bkground"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+             >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/taskText1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text=""
+           			android:textStyle="bold"
+            		android:gravity="center"
+            		android:textColor="#FFFFFFFF"
+                    android:background="@drawable/mission"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/taskText2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text=""
+                    android:textStyle="bold"
+            		android:gravity="center"
+            		android:textColor="#FFFFFFFF"
+            		android:background="@drawable/mission"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/taskText3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text=""
+                    android:textStyle="bold"
+            		android:gravity="center"
+            		android:textColor="#FFFFFFFF"
+            		android:background="@drawable/mission"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/taskText4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:text=""
+                    android:textStyle="bold"
+            		android:gravity="center"
+            		android:textColor="#FFFFFFFF"
+            		android:background="@drawable/mission"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="5sp" >
+
+                <TextView
+                    android:id="@+id/taskText5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/mission"
+                    android:textStyle="bold"
+            		android:gravity="center"
+            		android:textColor="#FFFFFFFF"
+                    android:layout_weight="2"
+                    android:text=""
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+    
+    <include android:id="@+id/home" layout="@layout/bottom_button"  />
+
+</LinearLayout>
